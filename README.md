@@ -1,2 +1,2 @@
 # project
-for code review and such
+dicking around with space roaming game model
