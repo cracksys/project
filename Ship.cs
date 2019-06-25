@@ -181,7 +181,7 @@ public class Ship : MonoBehaviour
         rend.material.SetColor("_Color", color);
 
         Vector3 scale = new Vector3(transform.localScale.x * _shipSize, transform.localScale.y * _shipSize, transform.localScale.z * _shipSize);
-        transform.localScale = scale * SHIP_SIZE_NERF;
+        transform.localScale = scale * SHIP_SIZE_NERF; 
     }
 
 }
